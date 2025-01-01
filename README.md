@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Diego Sarmiento  
+**Systems Engineer | Odoo/OpenERP Developer | MBA Graduate | AI Enthusiast**
 
-<!--
-**chuspi/chuspi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I specialize in developing and customizing Odoo/OpenERP modules, with a focus on Ecuadorian localization and process optimization. My passion lies in leveraging technology to create innovative solutions that drive business efficiency.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 💻 **Experience:** Expert in Odoo module development and system integration.  
+- 🎓 **Education:** MBA graduate with a focus on business strategy and optimization.  
+- 🤖 **Interests:** Exploring AI applications and their potential to transform industries.  
+- 🚴‍♂️ **Hobbies:** MTB and CrossFit enthusiast.  
+
+---
+
+## 🌟 My Skills  
+- **Programming Languages:** Python, XML, JavaScript.  
+- **ERP Systems:** Odoo/OpenERP (v7, v10+ customization).  
+- **Tools & Technologies:** PostgreSQL, Git, Linux.  
+- **Methodologies:** Agile, Lean Six Sigma.  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuspi&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuspi&layout=compact)
+
+---
+
+## 📫 How to Reach Me    
+- Email: [chuspid@gmail.com](mailto:chuspid@gmail.com)
+
+---
+
+## 🌱 Current Goals  
+- Expanding my expertise in AI development.  
+- Building innovative ERP solutions for businesses.  
+- Continuously learning and contributing to open source.  
+
+---
+
+Feel free to explore my repositories or connect with me for collaboration opportunities!
