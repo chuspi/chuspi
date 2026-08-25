@@ -19,13 +19,7 @@ Welcome to my GitHub profile! I specialize in developing and customizing Odoo/Op
 - **Tools & Technologies:** PostgreSQL, Git, Linux.  
 - **Methodologies:** Agile, Lean Six Sigma.  
 
----
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chuspi&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chuspi&layout=compact)
-
----
 
 ## 📫 How to Reach Me    
 - Email: [chuspid@gmail.com](mailto:chuspid@gmail.com)
